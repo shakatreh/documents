@@ -1,4 +1,4 @@
-# Kotlin Multiplatform (KMP) & Atomic Design
+# Why Leading Companies Choose Kotlin Multiplatform and Atomic Design
 ## Business Benefits & Industry Adoption
 
 ---
